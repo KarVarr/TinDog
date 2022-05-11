@@ -201,6 +201,10 @@
   margin: 3% 1%;
 }
 
+#footer .footer__media a {
+  color: #333;
+}
+
 @media (max-width: 1100px) {
   #title {
     text-align: center;
